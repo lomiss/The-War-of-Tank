@@ -1,7 +1,7 @@
+build/
 Library/
 Logs/
 Temp/
 UserSettings/
-build/
 
 *.meta
